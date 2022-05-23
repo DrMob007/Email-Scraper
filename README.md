@@ -13,4 +13,4 @@ Hello everyone!!!!
 [+] This tools allows the user to get/scrape out as many emails as possible for an entered website and dispays them.
 
 
-[+] Before you start using this besure to run : "pip install requirements.txt" so that there you wont face any problems regarding the libraries in the middle of the tool usage.
+[+] Before you start using this besure to run : "pip install -r requirements.txt" so that there you wont face any problems regarding the libraries in the middle of the tool usage.
